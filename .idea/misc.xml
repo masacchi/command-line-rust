@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>HTTP クライアント</id>
+          </State>
+          <State>
+            <id>JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>ビット演算関連の問題JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>一般</id>
+          </State>
+          <State>
+            <id>一般JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>国際化</id>
+          </State>
+          <State>
+            <id>好ましくない可能性があるコード箇所JavaScript と TypeScript</id>
+          </State>
+          <State>
+            <id>潜在的なバグCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ユーザー定義</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
